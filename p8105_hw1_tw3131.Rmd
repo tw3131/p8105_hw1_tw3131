@@ -1,0 +1,12 @@
+---
+title: "P8105 Homework 1"
+author: "Tianqing Wang"
+date: "2026-09-26"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+##Problem 1
